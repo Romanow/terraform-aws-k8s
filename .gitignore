@@ -1,0 +1,9 @@
+.idea/
+*.log
+*.iml
+*.iws
+*.ipr
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.auto.tfvars
